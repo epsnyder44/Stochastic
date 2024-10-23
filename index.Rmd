@@ -4,6 +4,6 @@ author: "Ethan Snyder"
 output: html_document
 ---
 My Portfolio Work:
-| Job | Link |
+| Resume | Link |
 |:--:|:-----:|
-|Delta|[Earnings_Analysis]()
+|Ethan Snyder|[Resume](EthanSnyderResume (2).pdf)
